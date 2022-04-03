@@ -5,9 +5,9 @@
     <session-factory>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL55Dialect</property>
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3307/db_21708018</property>
-        <property name="hibernate.connection.username">21708018</property>
-        <property name="hibernate.connection.password">S00684</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:xxxx/xxxxx</property>
+        <property name="hibernate.connection.username">xxxxxx</property>
+        <property name="hibernate.connection.password">xxxx</property>
 
         <!-- Parseur HQL -->
         <property name="hibernate.query.factory_class">org.hibernate.hql.internal.classic.ClassicQueryTranslatorFactory</property>
